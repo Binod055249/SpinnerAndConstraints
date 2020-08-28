@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpinnerAndConstraints</string>
+
+    <string-array name="sports_name">
+        <item>"Football"</item>
+        <item>"Boxing"</item>
+        <item>"KickBoxing"</item>
+        <item>"BodyBuilding"</item>
+        <item>"Taekwondo"</item>
+        <item>"Judo"</item>
+        <item>"Badminton"</item>
+    </string-array>
+</resources>
